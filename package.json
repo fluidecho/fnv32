@@ -1,0 +1,36 @@
+{
+  "name": "fnv32",
+  "description": "FNV (Fowler–Noll–Vo) 32 bit hash function - FNV-1, FNV-1a.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "homepage": "https://github.com/fluidecho/fnv32",
+  "author": "Mark W. B. Ashcroft <mark@fluidecho.com> (http://fluidecho.com)",
+  "contributors": [
+    "Mark W. B. Ashcroft <mark@fluidecho.com>"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fluidecho/fnv32.git"
+  },
+  "bugs": {
+    "url": "http://github.com/fluidecho/fnv32/issues",
+    "email": "bugs@fluidecho.com"
+  },
+  "engines": {
+    "node": ">=1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "fnv32",
+    "fnv-1",
+    "fnv-1a",
+    "fnv",
+    "Fowler–Noll–Vo",
+    "hash function"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  }
+}
