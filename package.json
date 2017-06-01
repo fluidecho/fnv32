@@ -32,5 +32,8 @@
   ],
   "scripts": {
     "test": "node test.js"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
