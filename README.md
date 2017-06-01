@@ -13,7 +13,7 @@
 
 FNV (Fowler–Noll–Vo) 32 bit hash function: FNV-1, FNV-1a.  
 
-_References: [https://tools.ietf.org/html/draft-eastlake-fnv-12](https://tools.ietf.org/html/draft-eastlake-fnv-12), [https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function)
+_References: [https://tools.ietf.org/html/draft-eastlake-fnv-12](https://tools.ietf.org/html/draft-eastlake-fnv-12), [https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function)_
 
 
 ## Installation
